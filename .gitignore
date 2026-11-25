@@ -15,3 +15,6 @@ prompts/
 .serena/
 price_history/
 data/
+backups/
+docker-compose.override.yaml
+docker-compose.override.yml
